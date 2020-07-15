@@ -1,4 +1,4 @@
-### Hi there 👋
+  print('👋')
 
 <!--
 **fandujar/fandujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* python ❤❤❤
+* golang ❤❤
+* nodejs ❤
+* kubernetes / cncf / devops ❤❤❤
