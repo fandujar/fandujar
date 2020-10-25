@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 * python ❤❤❤
-* golang ❤❤
+* golang ❤❤❤
 * nodejs ❤
 * kubernetes / cncf / devops ❤❤❤
