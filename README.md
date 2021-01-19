@@ -6,12 +6,12 @@
 I'm a software engineer and a casual gamer. I don't use github as much as I wish for now, but these are my main interests:
 
 
-### Favorite Programming Languages:
+### Favorite Programming Languages
 * python ❤❤❤
 * golang ❤❤❤
 * nodejs ❤
 
-### Cloud Providers
+### Knowledge on Cloud Providers
 
 * aws ❤❤:yellow_heart:
 * gcp ❤❤:yellow_heart:
