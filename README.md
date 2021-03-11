@@ -9,7 +9,7 @@ I'm a software engineer and a casual gamer. I don't use github as much as I wish
 ### Favorite Programming Languages
 * python ❤❤❤
 * golang ❤❤❤
-* nodejs ❤
+* javascript (nodejs, react, typescript) ❤❤
 
 ### Knowledge on Cloud Providers
 
