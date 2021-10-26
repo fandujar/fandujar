@@ -1,5 +1,7 @@
 [![Filipe Andujar - Software and Cloud Engineer](header.png)](https://linkedin.com/in/filipeandujar)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fandujar&color=green" alt="Profile views" /> </p>
+
 
 ## Hi, I'm Filipe Andujar...
 
