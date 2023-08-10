@@ -5,27 +5,25 @@
 
 ## Hi, I'm Filipe Andujar...
 
-I'm a software engineer and a casual gamer. I don't use github as much as I wish for now, but these are my main interests:
+I'm a software engineer and a casual gamer. Here are my favorite tools and programming languages:
 
 
-### Favorite Programming Languages
-* python ❤❤❤
-* golang ❤❤❤
-* javascript (nodejs, react, typescript) ❤❤
+### Favorite Programming Languages (by the level of Knowledge)
+* Python ❤❤❤
+* Golang ❤❤❤
+* Javascript (NodeJS, React, Typescript) ❤❤
 
-### Knowledge on Cloud Providers
+### Cloud Providers (by the level of Knowledge)
 
-* aws ❤❤:yellow_heart:
-* gcp ❤❤:yellow_heart:
-* azure ❤
+* AWS ❤❤❤
+* GCP ❤❤❤
+* Azure ❤
 
-Already worked with oracle cloud and ibm cloud but I rather not.
+I have already worked with Oracle Cloud and IBM Cloud but decided to leave them out of my toolkit.
 
-### Tools, Frameworks, Platforms that I'm focusing on the moment
-* kubernetes ❤❤❤
-* argocd ❤❤❤
-* gitlabci ❤❤
-* terraform ❤❤ 
-* crossplane ❤
+### Tools, Frameworks, and Platforms that I'm focusing on at the moment
+* Kubernetes (administration, operators) ❤❤❤
+* IaC (terraform, pulumy, crossplane) ❤❤
+* A.I. (Generative AI, LLM, Personal assistants) ❤
 
-Feel free to [buy me a coffee](https://ko-fi.com/fandujar)
+Feel free to connect with me or [buy me a coffee](https://ko-fi.com/fandujar)
